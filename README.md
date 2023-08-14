@@ -1,2 +1,2 @@
 # first-project
-This is going to be my first project for my SWE resume. 
+This is going to be my first project for my SWE resume. This is a website I am looking to create for a local business that currently has not website. The website will be used to integrate google maps so that customers can find their location easily. This will also implement a google calender that will allow the owner to have appointments auto sync to his calender and computer. They will be able to accept services and appointments through the site and allowing them to create a schedule to optimize time spent checking cars in. 
